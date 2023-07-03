@@ -311,10 +311,6 @@ a {
   grid-template-columns: repeat(4, 1fr);
 }
 
-.important__item {
-  max-width: 270px;
-}
-
 .important__item-img {
   margin-bottom: 20px;
 }
